@@ -36,5 +36,11 @@
 
 ## Se o conteúdo te ajudou, ajude o projeto:
 
+<div align="center">
+    <h3>Ajude com qualquer valor</h3>
+  <a href="https://nubank.com.br/pagar/1j4x3i/qA4jW8n5WR" target="_blank" rel="noopener noreferrer">
+    <img src="./public/images/nubank.jpeg" style="width: 50% !important;">
+  </a>
+</div>
 
 
