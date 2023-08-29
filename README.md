@@ -15,6 +15,7 @@
 1 - Crie o subdominio e aponte para o IP de sua VPS (ex. seudominio.com ->154.358.12.105).
 
 2 - Clone o reopsitório do Git na RAIZ (/hoot) de sua VPS:
+
     git clone https://github.com/PatrulhaSolutions/Proxy-Reverso-Installer.git
 
 3 - no terminal coloque o comando a baixo:
