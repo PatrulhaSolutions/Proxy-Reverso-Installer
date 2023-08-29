@@ -4,6 +4,7 @@
 
 [![Patrulha Solutions](https://img.shields.io/badge/site-psolutions-orange)](https://patrulhasolutions.com.br/) 
 [![License](https://img.shields.io/badge/license-GPL--3.0-orange)](./LICENSE)
+[![Nubank](https://img.shields.io/badge/donate-nubank-pink)](https://nubank.com.br/pagar/1j4x3i/qA4jW8n5WR)
 
 
 </div>
