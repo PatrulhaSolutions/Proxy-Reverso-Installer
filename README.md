@@ -10,10 +10,18 @@
   
 <div align="center"><img src="https://patrulhasolutions.com.br/wp-content/uploads/2022/04/cropped-logo-1.png"></div>
 
-## WhatsApp-Api-NodeJs
+## Criando conteúdo necessário
 
-This project is based on the [CodeChat](https://github.com/code-chat-br/whatsapp-api). The original project is an implementation of [Baileys](https://github.com/WhiskeySockets/Baileys), serving as a Restful API service that controls WhatsApp functions.</br> 
-The code allows the creation of multiservice chats, service bots, or any other system that utilizes WhatsApp. The documentation provides instructions on how to set up and use the project, as well as additional information about its features and configuration options.
+1 - Crie o subdominio e aponte para o IP de sua VPS (ex. seudominio.com ->154.358.12.105).
+
+2 - Clone o reopsitório do Git na RAIZ (/hoot) de sua VPS:
+    git clone https://github.com/PatrulhaSolutions/Proxy-Reverso-Installer.git
+
+3 - no terminal coloque o comando a baixo:
+    
+    cd Proxy-Reverso-Installer/GerProxyPSolutions && chmod +x git-gerador_proxy_reverso.sh && ./git-gerador_proxy_reverso.sh
+
+
 
 ## SSL
 
