@@ -34,6 +34,22 @@
     4-4 - A porta para o apontamento: (ex. 8000)
 
 
+## Consultoria e contato:
+
+    PATRULHA SOLUTIONS BUSINESS TECHNOLOGY LTDA
+
+    Fone: 14 3333-1488 (WhatsApp)
+
+    Email: contato@patrulhasolutions.com.br
+
+<div align="center">
+    <h3>Ajude com qualquer valor</h3>
+  <a href="https://1378.3cx.cloud/ronanferreira" target="_blank" rel="noopener noreferrer">
+    <img src="./public/images/online.jpeg" style="width: 50% !important;">
+  </a>
+</div>
+
+
 
 ## Se o conteúdo te ajudou, ajude o projeto:
 
