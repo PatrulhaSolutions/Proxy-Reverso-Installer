@@ -5,8 +5,8 @@
 [![Patrulha Solutions](https://img.shields.io/badge/site-psolutions-orange)](https://patrulhasolutions.com.br/) 
 [![License](https://img.shields.io/badge/license-GPL--3.0-orange)](./LICENSE)
 [![Nubank](https://img.shields.io/badge/donate-nubank-purple)](https://nubank.com.br/pagar/1j4x3i/qA4jW8n5WR)
-[![Suporte](https://img.shields.io/badge/atendimento-suporte-orange)](https://1378.3cx.cloud/ronanferreira)
-[![Agendamento](https://img.shields.io/badge/agenda-suporte-blue)](https://crm.patrulhasolutions.com.br/appointly/appointments_public/form?col=col-md-8+col-md-offset-2)
+[![Suporte](https://img.shields.io/badge/atendimento-online-orange)](https://1378.3cx.cloud/ronanferreira)
+[![Agendamento](https://img.shields.io/badge/agendar-suporte-blue)](https://crm.patrulhasolutions.com.br/appointly/appointments_public/form?col=col-md-8+col-md-offset-2)
 
 
 
