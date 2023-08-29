@@ -43,9 +43,9 @@
     Email: contato@patrulhasolutions.com.br
 
 <div align="center">
-    <h3>Ajude com qualquer valor</h3>
+    <h3>Atendimento online!</h3>
   <a href="https://1378.3cx.cloud/ronanferreira" target="_blank" rel="noopener noreferrer">
-    <img src="./public/images/online.jpeg" style="width: 50% !important;">
+    <img src="./public/images/online.png" style="width: 50% !important;">
   </a>
 </div>
 
