@@ -48,7 +48,7 @@
 <div align="center">
     <h3>Atendimento online!</h3>
   <a href="https://1378.3cx.cloud/ronanferreira" target="_blank" rel="noopener noreferrer">
-    <img src="./public/images/online.png" style="width: 50% !important;">
+    <img src="./public/images/online.png" style="width: 25% !important;">
   </a>
 </div>
 
@@ -57,11 +57,12 @@
   <a href="https://crm.patrulhasolutions.com.br/appointly/appointments_public/form?col=col-md-8+col-md-offset-2" target="_blank" rel="noopener noreferrer">
     <img src="https://www.spsp.org.br/wp-content/uploads/2019/03/Icone-Agenda-Calendario.png" style="width: 25% !important;">
   </a>
-</div>
+</div></br>
 
 
 
-## Se o conteúdo te ajudou, ajude o projeto:
+## Se o conteúdo te ajudou ajude este projeto:
+(Nos ajude a trazer novos conteúdos todos os dias!)
 
 <div align="center">
     <h3>Ajude com qualquer valor</h3>
