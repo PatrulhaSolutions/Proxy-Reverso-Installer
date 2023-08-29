@@ -1,4 +1,4 @@
-<h1 align="center">Gerador de proxy reverso | PSolutions</h1>
+<h1 align="center">Gerador de Proxy Reverso | PSolutions</h1>
 
 <div align="center">
 
@@ -23,9 +23,13 @@
     cd Proxy-Reverso-Installer/GerProxyPSolutions && chmod +x git-gerador_proxy_reverso.sh && ./git-gerador_proxy_reverso.sh
 
 4 - O instalador irá pedir:
+
     4-1 - O domínio que você apontou para sua VPS: (seudominio.com)
+
     4-2 - O E-mail para a instalação do SSL: (precisa ser um email válido!)
+
     4-3 - Um nome para a o domínio: (somente letras minúsculas e sem espaços - Ex. nomeescolhido)
+    
     4-4 - A porta para o apontamento: (ex. 8000)
 
 ## SSL
