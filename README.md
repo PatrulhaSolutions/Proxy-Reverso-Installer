@@ -14,7 +14,7 @@
 
 1 - Crie o subdominio e aponte para o IP de sua VPS (ex. seudominio.com ->154.358.12.105).
 
-2 - Em seu terminal, clone o reopsitório do Gitub:
+2 - Em seu terminal, clone o reopsitório do Github:
 
     git clone https://github.com/PatrulhaSolutions/Proxy-Reverso-Installer.git
 
@@ -29,10 +29,12 @@
     4-2 - O E-mail para a instalação do SSL: (precisa ser um email válido!)
 
     4-3 - Um nome para a o domínio: (somente letras minúsculas e sem espaços - Ex. nomeescolhido)
-    
+
     4-4 - A porta para o apontamento: (ex. 8000)
 
-## SSL
 
-To install the SSL certificate, follow the **[instructions](https://certbot.eff.org/instructions?ws=other&os=ubuntufocal)** below.
+
+## Se o conteúdo te ajudou, ajude o projeto:
+
+
 
